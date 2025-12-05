@@ -1039,23 +1039,6 @@ The Department of Computer Science & Applications at Panjab University is a prem
 
 </div>
 
-## 📞 Support & Contact
-
-### Need Help?
-
-- 📧 **Email**: sahakclub@pu.ac.in (example)
-- 🌐 **Department**: [DCSA, Panjab University](https://puchd.ac.in/)
-- 📝 **Documentation**: Check `PROJECT_DOCUMENTATION.md` for detailed guides
-- 🐛 **Bug Reports**: Create an issue on GitHub
-
-### Quick Links
-
-- [Installation Guide](#-installation)
-- [User Manual](#-usage)
-- [Admin Guide](#-admin-panel)
-- [Troubleshooting](IMAGE_UPLOAD_FIX.md)
-- [Development Guide](FULL_PROJECT_WALKTHROUGH.md)
-
 ---
 
 <div align="center">
